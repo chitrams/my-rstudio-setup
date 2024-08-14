@@ -10,6 +10,6 @@ This repository contains base files for initialising RStudio on new devices with
 
 ## Global options
 
-- **Code** > **Display** > **Show whitespace characters** and **Highlight R function calls** and **Use rainbow parentheses**
--  **Appearance** > Editor font: **Fira Code** and Editor theme: **Tomorrow Night 80s**
+- Tick all **Code** > **Display** > **Show whitespace characters** and **Highlight R function calls** and **Use rainbow parentheses**
+- **Appearance** > Editor font: **Fira Code** and Editor theme: **Tomorrow Night 80s**
 - **Git/SVN** > sort out **Git executable** and **SSH key**
